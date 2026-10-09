@@ -1,6 +1,6 @@
 <div align="center">
 
-# Toxic MD — WhatsApp Bot
+# To MD — WhatsApp Bot
 
 ![Node.js](https://img.shields.io/badge/Node.js-20+-brightgreen?style=flat-square&logo=node.js)
 ![Platform](https://img.shields.io/badge/Platform-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)

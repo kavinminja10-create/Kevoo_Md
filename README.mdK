@@ -1,6 +1,6 @@
 <div align="center">
 
-# Toxic MD — WhatsApp Bot
+# Kevoo_Md — WhatsApp Bot
 
 ![Node.js](https://img.shields.io/badge/Node.js-20+-brightgreen?style=flat-square&logo=node.js)
 ![Platform](https://img.shields.io/badge/Platform-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
@@ -11,7 +11,7 @@
 
 **A powerful, lightning-fast WhatsApp Multi-Device bot built for group control, automation, AI chat, media editing, and fun commands^^**
 
-<img src="https://raw.githubusercontent.com/xhclintohn/Music-Clips-Collection/main/images/toxicx.png" width="100%" />
+<img src="https://raw.githubusercontent.com/xhclintohn/Music-Clips-Collection/main/images/kevoox.png" width="100%" />
 
 </div>
 
@@ -46,9 +46,9 @@ Change the bot's reply language anytime with: `.language <code>` (Owner only)
 
 ## 📖 About
 
-**Toxic-MD** is a modern WhatsApp bot built on the **Baileys Multi-Device** library. It helps you manage groups, automate repetitive tasks, protect your chats, and enjoy a wide range of fun and utility commands — all in a single, easy-to-deploy package.
+**Kevoo_MD** is a modern WhatsApp bot built on the **Baileys Multi-Device** library. It helps you manage groups, automate repetitive tasks, protect your chats, and enjoy a wide range of fun and utility commands — all in a single, easy-to-deploy package.
 
-### Why Toxic-MD?
+### Why Kevoo_MD?
 
 | Feature | Details |
 |---|---|
@@ -161,10 +161,10 @@ SESSION=YOUR_SESSION_ID
 
 <div align="center">
 
-**Toxic-MD**
+**Kevoo_MD**
 
 Simple • Powerful • Multi-Device WhatsApp Bot
 
-*Built with ❤️ by xh_clinton*
+*Built with ❤️ by kevoo_Md*
 
 </div>
